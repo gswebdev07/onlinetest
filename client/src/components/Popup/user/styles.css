@@ -1,0 +1,39 @@
+.BTN {
+  font-size: 1.6rem;
+  cursor: pointer;
+  padding: 15px 10px;
+  color: #f7f7f7;
+  width: 200px;
+  text-align: center;
+  transition: 0.2s all;
+}
+
+.btn-delete {
+  background-color: red;
+}
+.btn-delete:hover {
+  background-color: #d40202;
+}
+.btn-cancel {
+  background-color: #333333;
+}
+
+.btn-cancel:hover {
+  background-color: #4786e5;
+}
+.bookmark-pop-heading {
+  font-size: 19px;
+  text-shadow: none;
+  color: #333333;
+  text-align: center;
+  margin: 15px;
+  margin-top: 0px;
+  font-weight: 300;
+}
+.incorrect {
+  font-size: 1.6rem;
+  margin: 0 auto 10px auto;
+  color: red;
+  opacity: 0;
+  transition: 0.2s all;
+}

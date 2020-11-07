@@ -1,0 +1,9 @@
+.subject-link {
+  outline: none;
+  height: 100%;
+  text-decoration: none;
+  color: #aaaaaa;
+  cursor: pointer;
+  position: relative;
+  z-index: 10;
+}

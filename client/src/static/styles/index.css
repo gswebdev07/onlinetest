@@ -1,0 +1,37 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+*:focus {
+  outline: none;
+}
+html,
+body {
+  background-color: #fff;
+  color: #34343C;
+  font-family: "Open Sans", sans-serif;
+  font-family: "Poppins", sans-serif;
+  
+  font-size: 10px;
+  letter-spacing: 1.6px;
+  font-weight: 300;
+  text-rendering: optimizeLegibility;
+  overflow-x: hidden;
+  scroll-behavior: smooth;
+}
+.clearfix {
+  zoom: 1;
+}
+.clearfix:after {
+  content: ".";
+  clear: both;
+  visibility: hidden;
+  display: block;
+  height: 0;
+}
+
+
+
+
+

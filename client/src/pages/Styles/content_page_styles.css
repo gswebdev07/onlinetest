@@ -1,0 +1,21 @@
+.main-table-row {
+  font-size: 105%;
+}
+
+.main-table-row td {
+  outline: 2px solid #777;
+  padding-left: 4px;
+  font-weight: 500;
+}
+td {
+  outline: 1px solid #777;
+  padding-left: 4px;
+  font-weight: 400;
+}
+
+.set-textbox {
+  width: 40rem;
+  outline: none;
+  border: 0.5px solid #999999;
+  padding: 5px;
+}
